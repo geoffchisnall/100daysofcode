@@ -1,0 +1,5 @@
+HTML (hyper text markup language) - content and layout
+CSS (cascading style sheets) - Styling and look
+JavaScript - Interactive elememts
+
+
