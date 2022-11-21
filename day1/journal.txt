@@ -1,7 +1,33 @@
 So I am starting with with following:
 
 https://www.theodinproject.com/paths/foundations/courses/foundations
-'''
-Overview
+
+#####Overview
 This is where it all begins! A hands-on introduction to all of the essential tools you'll need to build real, working websites. You'll learn what web developers actually do – the foundations you'll need for later courses.
-'''
+
+
+How to work more efficiently.
+
+How to stay motivated and not fall into procrastination mode.
+The Pomodoro Effect - https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+The idea is to set a timer for 25 minutes and to work on a task until the timer goes off. If you get distracted or interrupted during the 25 minutes, start the 25 minutes of work over again. Once you’ve successfully focused on work for 25 minutes, take a 5 minute break. When your break is over, repeat the 25 minutes of work and 5 minute break. After you’ve completed four 25 minute blocks of work, take a longer 15-30 minute break.
+
+The Pomodoro technique is great for avoiding procrastination as it forces you to work without distractions. Since the work time only lasts 25 minutes before taking a break, it’s not overwhelming, making it harder to rationalize procrastination.
+
+Tomato Timer - https://www.toptal.com/project-managers/tomato-timer
+
+What to do during your break:
+
+listen to music
+journal
+doodle
+meditate
+play a quick game
+go for a short walk outside
+
+
+Digital distractions
+Physical distractions
+Time limit rabbit holes
+
